@@ -43,7 +43,7 @@ header {
     display: none;
 }
 
-@media screen and (max-width:440px){
+@media screen and (max-width:550px){
     .menu {
         width: 100%;
         height: auto;
